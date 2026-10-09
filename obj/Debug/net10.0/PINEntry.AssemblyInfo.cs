@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PINEntry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b030300854f30ab3699bc3cd0ba0e7fd7502a575")]
 [assembly: System.Reflection.AssemblyProductAttribute("PINEntry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PINEntry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

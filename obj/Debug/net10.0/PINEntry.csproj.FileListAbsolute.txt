@@ -1,0 +1,15 @@
+C:\Users\Az\Documents\Mapel\Programming\pinentry\bin\Debug\net10.0\PINEntry.exe
+C:\Users\Az\Documents\Mapel\Programming\pinentry\bin\Debug\net10.0\PINEntry.deps.json
+C:\Users\Az\Documents\Mapel\Programming\pinentry\bin\Debug\net10.0\PINEntry.runtimeconfig.json
+C:\Users\Az\Documents\Mapel\Programming\pinentry\bin\Debug\net10.0\PINEntry.dll
+C:\Users\Az\Documents\Mapel\Programming\pinentry\bin\Debug\net10.0\PINEntry.pdb
+C:\Users\Az\Documents\Mapel\Programming\pinentry\obj\Debug\net10.0\PINEntry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Az\Documents\Mapel\Programming\pinentry\obj\Debug\net10.0\PINEntry.AssemblyInfoInputs.cache
+C:\Users\Az\Documents\Mapel\Programming\pinentry\obj\Debug\net10.0\PINEntry.AssemblyInfo.cs
+C:\Users\Az\Documents\Mapel\Programming\pinentry\obj\Debug\net10.0\PINEntry.csproj.CoreCompileInputs.cache
+C:\Users\Az\Documents\Mapel\Programming\pinentry\obj\Debug\net10.0\PINEntry.sourcelink.json
+C:\Users\Az\Documents\Mapel\Programming\pinentry\obj\Debug\net10.0\PINEntry.dll
+C:\Users\Az\Documents\Mapel\Programming\pinentry\obj\Debug\net10.0\refint\PINEntry.dll
+C:\Users\Az\Documents\Mapel\Programming\pinentry\obj\Debug\net10.0\PINEntry.pdb
+C:\Users\Az\Documents\Mapel\Programming\pinentry\obj\Debug\net10.0\PINEntry.genruntimeconfig.cache
+C:\Users\Az\Documents\Mapel\Programming\pinentry\obj\Debug\net10.0\ref\PINEntry.dll
